@@ -40,3 +40,7 @@ Thumbs.db
 
 # Electron build artifacts
 electron-builder.yml
+
+# Test files and temporary test data
+test-*.db
+test-logbook.db
